@@ -1,3 +1,5 @@
 # Week 0 — Billing and Architecture
 
-C:\Users\fahad\Desktop\test.JPG
+
+
+<img src="C:\Users\fahad\Desktop\test.JPG" alt="Alt text" title="Optional title">
