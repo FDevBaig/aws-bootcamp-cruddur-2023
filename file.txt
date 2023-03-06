@@ -1,0 +1,5 @@
+export HONEYCOMB_API_KEY="JZmigu2bVBpWcJatwx7JkA"
+gp env HONEYCOMB_API_KEY="JZmigu2bVBpWcJatwx7JkA"
+
+export HONEYCOMB_SERVICE_NAME="Cruddur"
+gp env HONEYCOMB_SERVICE_NAME="Cruddur"
